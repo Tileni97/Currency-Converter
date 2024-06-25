@@ -56,14 +56,6 @@ To run the Mastermind game, you need to have Python installed. Follow these step
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions or suggestions, feel free to open an issue or contact me directly at your.email@example.com.
-
 ---
 
 Enjoy playing Mastermind!
