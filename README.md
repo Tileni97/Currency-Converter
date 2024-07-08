@@ -27,7 +27,7 @@ To run the Mastermind game, you need to have Python installed. Follow these step
     ```sh
     cd mastermind-game
     ```
-3. Install the required dependencies (if any). For this project, `tkinter` is used, which is included with standard Python installations.
+3. Install the required dependencies. For this project, `tkinter` is used, which is included with standard Python installations.
 
 4. Run the game:
     ```sh
@@ -36,7 +36,7 @@ To run the Mastermind game, you need to have Python installed. Follow these step
 
 ## Game Screenshot
 
-![Mastermind Game Screenshot](screenshot.png)
+![
 
 ## Code Overview
 
