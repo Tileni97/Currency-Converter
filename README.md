@@ -22,9 +22,7 @@ Mastermind is a classic code-breaking game where the player tries to guess a sec
 To run the Mastermind game, you need to have Python installed. Follow these steps:
 
 1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/mastermind-game.git
-    ```
+    
 2. Navigate to the project directory:
     ```sh
     cd mastermind-game
